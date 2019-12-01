@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">AndroidWeatherApp</string>
+    <string name="title_activity_retrieve_location">Map</string>
+    <string name="info_text">Hello card :)</string>
+
+<!-- Summary strings -->
+    <string name="summary">Summary</string>
+    <string name="temp">Temperature: %1$.0fF\u00B0/%2$.0fC\u00B0</string>
+    <string name="avgTemp">Average temperature (48 hr): %1$.0fF\u00B0/%2$.0fC\u00B0</string>
+    <string name="hum">Humidity: %1$.0f%%</string>
+    <string name="rain">Precipitation Probability: %1$.0f%%</string>
+    <string name="wind">Wind speed:  %1$.0f</string>
+
+    <string name="hour1">Hour 1: </string>
+    <string name="hour2">Hour 2: </string>
+    <string name="hour3">Hour 3: </string>
+    <string name="hour4">Hour 4: </string>
+    <string name="hour5">Hour 5: </string>
+
+    <string name="temp1">%1$.0fF\u00B0</string>
+    <string name="temp2">%1$.0fF\u00B0</string>
+    <string name="temp3">%1$.0fF\u00B0</string>
+    <string name="temp4">%1$.0fF\u00B0</string>
+    <string name="temp5">%1$.0fF\u00B0</string>
+
+    <string name="day1">Day 1</string>
+    <string name="day2">Day 2</string>
+    <string name="day3">Day 3</string>
+    <string name="day4">Day 4</string>
+    <string name="day5">Day 5</string>
+    <string name="day6">Day 6</string>
+
+    <string name="day1temp">%1$.0fF\u00B0</string>
+    <string name="day2temp">%1$.0fF\u00B0</string>
+    <string name="day3temp">%1$.0fF\u00B0</string>
+    <string name="day4temp">%1$.0fF\u00B0</string>
+    <string name="day5temp">%1$.0fF\u00B0</string>
+    <string name="day6temp">%1$.0fF\u00B0</string>
+
+    <string name="day1low">%1$.0fF\u00B0</string>
+    <string name="day2low">%1$.0fF\u00B0</string>
+    <string name="day3low">%1$.0fF\u00B0</string>
+    <string name="day4low">%1$.0fF\u00B0</string>
+    <string name="day5low">%1$.0fF\u00B0</string>
+    <string name="day6low">%1$.0fF\u00B0</string>
+    
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="day">Day</string>
+
+    <string name="edit_message">Input Date [YYYY-MM-DD]</string>
+    <string name="edit_message2">Input Hour [HH]</string>
+    <string name="button_send">Get Forecast</string>
+    <string name="timeMachinetemp">%1$.0fF\u00B0</string>
+    <string name="errortext">Please enter the date/time correctly.</string>
+
+
+</resources>
